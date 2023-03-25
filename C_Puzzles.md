@@ -30,7 +30,7 @@ int display() {
 ```
 
 stringzie -> convert token to double quoted string (#)
-Token pasting -> combines to token into 1
+  Token pasting -> combines two token into 1
 
 ---
 > Compare two integers without using any comparison or arithmetic operator
